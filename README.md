@@ -1,1 +1,2 @@
 # Nim-s-game-Artificial-intelligence
+So this is a python code to simulate the Nim's game where we remove a single marbel from different piles.The min is simulated by the player's turn and the max is simulated by the computer.The winner is based on the condition that there should be not the same number of marbles in both of the piles and any piles should not become empty.(Condition for MIN -MAX game).
